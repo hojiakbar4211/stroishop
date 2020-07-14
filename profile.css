@@ -1,0 +1,14 @@
+th{
+    line-height: 30px!important;
+}
+
+
+
+.activee{
+    background: #373d54;
+    color: white!important;
+}
+.activee:hover{
+    background: #373d54!important;
+    color: white!important;
+}
